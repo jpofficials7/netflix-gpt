@@ -28,7 +28,7 @@
 - Fetch Data for Trailer Video
 - Update Store with Trailer Video Data
 - Embedded the Youtube Video and make it autoplay and nute
-- Tailwind Classes to make it look awesome
+- Tailwind Classes to make mainContainer look awesome
 
 # Features
 
