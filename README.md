@@ -29,7 +29,6 @@
 - Update Store with Trailer Video Data
 - Embedded the Youtube Video and make it autoplay and nute
 - Tailwind Classes to make it look awesome
-- Fetch from TMDB Movies
 
 # Features
 
